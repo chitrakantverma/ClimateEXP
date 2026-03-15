@@ -102,7 +102,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-The dashboard opens at `https://finalclimax-teygrdtzta6rrlgtm7sul7.streamlit.app/`.
+The dashboard opens at https://finalclimax-teygrdtzta6rrlgtm7sul7.streamlit.app/.
 
 ---
 
